@@ -1,6 +1,6 @@
 FROM node:lts-buster
 
-RUN git clone https://github.com/Alien-alfa/WhatsAppBot-MD /root/AlienAlfa
+RUN git clone https://github.com/A4edits/AEXD-MD-PUBLIC /root/AlienAlfa
 WORKDIR /root/AlienAlfa/
 
 RUN npm install -g npm@8.9.0
